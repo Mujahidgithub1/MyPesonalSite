@@ -1,0 +1,137 @@
+html{
+  background-color: #caf7e3;
+}
+body{
+  margin: 0;
+  text-align: center;
+}
+.h11{
+  font-family: 'Sacramento', cursive;
+  font-size: 63px;
+  color: #6930c3;
+}
+p
+{
+font-family: 'Patrick Hand SC', cursive;
+}
+h2{
+  text-decoration: underline;
+  color: #79d70f;
+  position: relative;
+  top: 20px;
+  bottom: 20px;
+ }
+p {
+  font-size: 25px;
+  color: #512b58;
+}
+.top-container{
+  margin: 0;
+  padding-top: 50px;
+}
+.mypass{
+  width: 20%;
+  position: relative;
+  top: 30px;
+}
+.cloud2{
+  position: absolute;
+  top: auto;
+}
+.last{
+  text-decoration: underline;
+  font-family: cursive;
+}
+.java
+{
+  margin: 50px auto;
+  position: relative;
+  bottom: 45px;
+  width: 40%;
+}
+.student{
+  color: #ff5733;
+  font-size: 45px;
+  font-weight: normal;
+}
+.boy {
+  width: 4%;
+  position: relative;
+bottom: 415px;
+left: 400px;
+}
+.cp{
+  width: 2%;
+}
+.fb {
+  width: 9%;
+}
+.in {
+  width: 9%;
+}
+.html{
+  width: 40%;
+}
+hr{
+  border: dotted;
+  border-bottom: none;
+width: 4%;
+color: #ffbe0f;
+}
+.mountain{
+  position: relative;
+  bottom: 50px;
+}
+.contact-me {
+}
+.btn {
+  background: #34d9d1;
+  background-image: -webkit-linear-gradient(top, #34d9d1, #2bafb8);
+  background-image: -moz-linear-gradient(top, #34d9d1, #2bafb8);
+  background-image: -ms-linear-gradient(top, #34d9d1, #2bafb8);
+  background-image: -o-linear-gradient(top, #34d9d1, #2bafb8);
+  background-image: linear-gradient(to bottom, #34d9d1, #2bafb8);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border: 20px;
+}
+
+.btn:hover {
+  background: #3cfcdc;
+  background-image: -webkit-linear-gradient(top, #3cfcdc, #34d9b8);
+  background-image: -moz-linear-gradient(top, #3cfcdc, #34d9b8);
+  background-image: -ms-linear-gradient(top, #3cfcdc, #34d9b8);
+  background-image: -o-linear-gradient(top, #3cfcdc, #34d9b8);
+  background-image: linear-gradient(to bottom, #3cfcdc, #34d9b8);
+  text-decoration: none;
+  border: 20px;
+}
+.bottom-container{
+  margin-top:  55px;
+  background-color: #c39e5c;
+  margin-bottom: 0;
+  padding: 0 0 2px;
+  height: 200px;
+}
+a {
+  color: #34d9d1;
+  font-family: 'Patrick Hand SC', cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-size: 30px;
+}
+a:hover{
+  color:#ffffff;
+}
+.last {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  padding: 30px 0;
+}
